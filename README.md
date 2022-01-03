@@ -1,2 +1,2 @@
 # NNs-From-Scratch
-Neural networks using C++ from scratch.
+Neural networks from scratch using C++.
